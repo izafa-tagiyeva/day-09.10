@@ -1,0 +1,7 @@
+C:\Users\Izafe\OneDrive\Desktop\day-09.10\ConsoleApp1\task3\obj\Debug\task3.csproj.AssemblyReference.cache
+C:\Users\Izafe\OneDrive\Desktop\day-09.10\ConsoleApp1\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+C:\Users\Izafe\OneDrive\Desktop\day-09.10\ConsoleApp1\task3\bin\Debug\task3.exe.config
+C:\Users\Izafe\OneDrive\Desktop\day-09.10\ConsoleApp1\task3\bin\Debug\task3.exe
+C:\Users\Izafe\OneDrive\Desktop\day-09.10\ConsoleApp1\task3\bin\Debug\task3.pdb
+C:\Users\Izafe\OneDrive\Desktop\day-09.10\ConsoleApp1\task3\obj\Debug\task3.exe
+C:\Users\Izafe\OneDrive\Desktop\day-09.10\ConsoleApp1\task3\obj\Debug\task3.pdb
